@@ -4,7 +4,7 @@ Repositório responsável para os TPCs de Processamento de Linguagens (PL) relat
 
 ## Autor
 
-João Augusto Macedo Moreira A93326
+João Augusto Macedo Moreira A93326 Teste
 
 ## Lista dos TPCs
 
