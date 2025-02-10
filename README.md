@@ -4,6 +4,7 @@ Repositório responsável para os TPCs de Processamento de Linguagens (PL) relat
 
 ## Autor
 
+![alt text](https://github.com/augusto021/PL2025-A93326/blob/main/Photo.aspx.jpeg "João Augusto Macedo Moreira")
 João Augusto Macedo Moreira A93326
 
 ## Lista dos TPCs
@@ -18,4 +19,3 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos ao longo da unidade curricular
 6. TPC6 - "título"
 7. TPC7 - "título"
 8. TPC8 - "título"
-
