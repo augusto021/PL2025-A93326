@@ -1,4 +1,4 @@
-# TPC1 - Somador ON/Off (Data: 2025-02-07)
+# TPC1 - Somador ON/Off (Data: 2025-02-10)
 
 ## Resumo
 
