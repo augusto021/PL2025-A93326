@@ -29,11 +29,11 @@ O programa foi desenvolvido em Python e utiliza expressões regulares para extra
 * Compositor
 
 4. Ordenação e Contagem:
-* A lista de compositores é extraída, removendo duplicatas e ordenando alfabeticamente.
+* A lista de compositores é extraída, removendo duplicados e ordenando alfabeticamente.
 * Um dicionário contabiliza quantas obras existem por período.
 * Outro dicionário associa cada período a uma lista ordenada de títulos de obras.
 
-5. Impressão dos Resultados: Os resultados são exibidos no console de forma estruturada.
+5. Impressão dos Resultados: Os resultados são exibidos no terminal de forma estruturada.
 
 
 ## Resultados
