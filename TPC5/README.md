@@ -59,8 +59,11 @@ Para executar o programa:
 
 **Comandos da máquina**
 > LISTAR
+
 > MOEDAS <valor>
+
 > SELECIONAR <codigo>
+
 > SAIR 
 
 ## Autor
