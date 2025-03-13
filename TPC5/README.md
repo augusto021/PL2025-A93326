@@ -43,7 +43,7 @@ O programa foi desenvolvido em Python e utiliza a biblioteca `PLY` para análise
 
 Após a execução do programa, a máquina de vending simula corretamente um ambiente de compra:
 1. **Carrega o stock inicial do ficheiro JSON.**
-2. **Aceita moedas e atualiza o saldo do usuário.**
+2. **Aceita moedas e atualiza o saldo do utilizador.**
 3. **Dispensa produtos disponíveis quando o saldo é suficiente.**
 4. **Informa o usuário sobre saldo insuficiente ou produto inexistente.**
 5. **Devolve corretamente o troco ao encerrar a sessão.**
