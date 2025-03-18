@@ -16,7 +16,7 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos ao longo da unidade curricular
 2. TPC2 - "Análise de um dataset de obras musicais"
 3. TPC3 - "Conversor de MarkDown para HTML"
 4. TPC4 - "título"
-5. TPC5 - "título"
+5. TPC5 - "Simulação de uma Máquina de Vending"
 6. TPC6 - "título"
 7. TPC7 - "título"
 8. TPC8 - "título"
